@@ -60,6 +60,7 @@
     </form>
 </h3>
 
+<p style="text-align: left; padding-left: 700px;">&nbsp;</p>
 <h3 style="text-align: left; padding-left: 700px;">Put new balance id
     <form action="http://localhost:8080/operations/put/balance_id" method="GET">
         id =

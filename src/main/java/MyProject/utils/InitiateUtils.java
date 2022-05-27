@@ -39,7 +39,7 @@ public class InitiateUtils implements CommandLineRunner {
                                 new Articles()
                                         .setName("Stocks"),
                                 new Articles()
-                                        .setName("Donations")
+                                        .setName("Prize")
                 )
         );
 
@@ -112,6 +112,7 @@ public class InitiateUtils implements CommandLineRunner {
 
         System.out.println("\n----------------------------");
         System.out.println("Приложение успешно запущено!");
+        System.out.println("  http://localhost:8080/");
         System.out.println("----------------------------\n");
     }
 }
